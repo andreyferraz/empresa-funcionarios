@@ -1,4 +1,4 @@
-## Programa de pagamentos para funcionários
+# Programa de pagamentos para funcionários
 Uma empresa possui funcionários próprios e terceirizados.
 Para cada funcionário, deseja-se registrar nome, horas
 trabalhadas e valor por hora. Funcionários terceirizado
@@ -14,7 +14,7 @@ fornecido pelo usuário) e armazena-os em uma lista. Depois
 de ler todos os dados, exibe o nome e pagamento de cada
 funcionário na mesma ordem em que foram digitados.
 
-# Exemplo abaixo:
+## Exemplo abaixo:
 ![Captura de tela 2023-09-29 121115](https://github.com/andreyferraz/empresa-funcionarios/assets/60530398/4ac1755c-a65e-434d-84aa-ee7d2c55c71b)
 
 > treinando o uso de Herança no java
