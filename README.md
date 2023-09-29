@@ -17,6 +17,6 @@ funcionário na mesma ordem em que foram digitados.
 ## Exemplo abaixo:
 ![Captura de tela 2023-09-29 121115](https://github.com/andreyferraz/empresa-funcionarios/assets/60530398/4ac1755c-a65e-434d-84aa-ee7d2c55c71b)
 
-> treinando o uso de Herança no java
+> treinando o uso de herança e polimorfismo no java
 
 
